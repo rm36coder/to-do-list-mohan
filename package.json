@@ -1,6 +1,6 @@
 {
   "name": "to-do-list-mohan",
-  "version": "16.14.2",
+  "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+
+    "node": "16.14.2"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
